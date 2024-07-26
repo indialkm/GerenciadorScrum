@@ -7,6 +7,6 @@ public class BacklogSprint {
 	private LocalDate dataInicio;
 	private LocalDate dataFinal;
 	private String status;
-	private Integer idSprint;
+	private Integer idSprint; //Lista do backlog de sprint
 
 }
