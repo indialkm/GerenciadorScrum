@@ -13,7 +13,7 @@ public class EstoriaDeUsuario {
 	private LocalDate dataInicio;
 	private LocalDate dataFinal;
 	private Integer nivelPrioridade;
-	private Integer idbacklogSprint;
+	private Integer idbacklogSprint; // classe baclog de sprint
 	
 
 }
